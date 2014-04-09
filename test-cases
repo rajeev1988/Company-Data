@@ -1,0 +1,9 @@
+Unit Test Cases-
+
+Precondition- Data will be picked from CSV file row wise which is already created.
+
+1. Upload File.
+2. File extention should be .csv 
+3. Application should read the CSV line by line.
+4. It should read the correct data corresponding to the column. i.e if reading for Company A then it shoul read the yesr and price for company a.
+5. It should shoe the List of company in shorted order with Highest price first.
